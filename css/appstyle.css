@@ -1,0 +1,29 @@
+html, body
+{
+	background:url("http://st3.flashrolls.net/wallpaper/2e8/21ec64c9b9441794e0e495f2c4750379.jpg");
+	height: 98%;
+	width: 98%;
+}
+
+
+h3 {color:white;
+	height: 15%;
+	user-select: none;
+	text-align: center;
+	font-size: 400%;
+	font-family: "helvetica"
+}
+
+
+#mySVGCanvas {
+	border: 1px solid #FFFFFF;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background: url("http://static.tumblr.com/fa1168dc8ff4df0526d0fc9707d5c9fb/rflcg3z/FV0nhjeku/tumblr_static_9hb9cmokwhkwcwcggwc8wg40s.jpg");
+
+}
+
+
+
+
